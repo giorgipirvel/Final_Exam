@@ -1,0 +1,2 @@
+server.url=max.ge/final/t3/69384751/index.php
+bot.name=ChatBot Assistant
